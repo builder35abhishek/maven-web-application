@@ -11,7 +11,7 @@
 <body>
 <hr>
 <br>
-	<h1><h3> The Server Side IP Address </h3><br>
+	<h1><h3>Server Side IP Address </h3><br>
 
 <% 
 String ip = "";
